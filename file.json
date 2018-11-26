@@ -1,0 +1,11 @@
+{
+ "productName": "smart phone",
+ "price": 2000.00,
+ "description": "new model",
+ "courierDTO":{
+ "name": "Ivan Gradimirov",
+ "phoneNumber": "1234567890",
+ "carRegistration":"PA1223BT"
+ 
+ }
+}
