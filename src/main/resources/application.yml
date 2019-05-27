@@ -1,0 +1,15 @@
+rabbitmq:
+  host: 127.0.0.1
+  port: 15672
+  username: guest
+  password: guest
+
+server:
+  port: 8085
+
+spring:
+  data:
+    mongodb:
+      uri=mongodb: //localhost:27017
+      database: products
+
